@@ -123,9 +123,3 @@ This project turns two years of raw supermarket transaction data into a fully in
 |---|---|
 | `Supermarket_Sales_Dashboard.xlsx` | The interactive dashboard, built with PivotTables, PivotCharts, and slicers |
 | `Raw_Data.xlsx` | The underlying two years of supermarket transaction data (527 orders, Jan 2021–Dec 2022) |
-
----
-
-## Why This Project
-
-Retail teams often default to buying a BI tool the moment they want an interactive dashboard, even when the underlying analysis doesn't require one. This project demonstrates that a fully filterable, multi-dimensional sales dashboard, covering revenue, profit margin, product performance, and channel mix, can be built entirely inside Excel using PivotTables, PivotCharts, and slicers. It's meant to be a practical, reusable template for anyone analyzing retail transaction data without needing to stand up external tooling.
