@@ -21,7 +21,6 @@ An interactive Excel dashboard analyzing two years of supermarket transactions, 
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Repository Contents](#repository-contents)
-- [Why This Project](#why-this-project)
 
 ---
 
