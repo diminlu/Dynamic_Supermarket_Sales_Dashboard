@@ -7,7 +7,7 @@ An interactive Excel dashboard analyzing two years of supermarket transactions, 
 ![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-informational?style=flat)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=flat)
 
-![Dashboard Preview](https://private-user-images.githubusercontent.com/285036900/604108068-7cc2a972-0e88-4228-b567-514f72d5368c.png)
+<img width="2482" height="1395" alt="image" src="https://github.com/user-attachments/assets/beca16a8-13f0-4d65-a855-4bca35d424a3" />
 
 ---
 
